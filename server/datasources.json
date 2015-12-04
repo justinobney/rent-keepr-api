@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb_dev": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "rent-keepr",
+    "name": "mongodb_dev",
+    "connector": "mongodb"
+  }
+}
